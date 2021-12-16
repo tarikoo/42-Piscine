@@ -1,0 +1,5 @@
+Credentials cache: API:7C938F10-11AE-41C7-8634-2D334FAF786B
+        Principal: taysoy@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 00:15:33 2021  Nov 24 10:15:33 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
